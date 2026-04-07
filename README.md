@@ -1,6 +1,10 @@
+# Генерация фрактального пламени
+
 # Запуск
  
  make build
+
+ ./bin/fractalflame --random
  
  ./bin/fractalflame --config samples/sample1.json 
  
